@@ -4,6 +4,13 @@
 
 ---
 
+## 👋 Sobre mim
+
+Olá! Me chamo **Enzo de Andrade Cruz**, sou um Desenvolvedor Júnior apaixonado por tecnologia e sempre em busca de novos aprendizados. Tenho formação técnica em **Análise e Desenvolvimento de Sistemas** pelo **SENAC-TECH RS**, e atualmente estou cursando a graduação na mesma área pela **Universidade LaSalle**.
+
+🎯 Meu objetivo é atuar na área de **Desenvolvimento de Software**, contribuindo com soluções criativas e eficientes, enquanto evoluo tecnicamente e profissionalmente dentro de equipes colaborativas e inovadoras.
+
+
 <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
