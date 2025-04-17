@@ -1,8 +1,10 @@
 # 👨‍💻 Enzo de Andrade Cruz
 
-🎯 **Objetivo:** Atuar na área de **Desenvolvimento de Software**
 
-Olá! Me chamo **Enzo de Andrade Cruz** e sou **Desenvolvedor Júnior**, apaixonado por tecnologia e sempre em busca de aprendizado contínuo. Neste repositório você encontrará projetos e experimentos desenvolvidos com foco em boas práticas, organização de código e crescimento técnico.
+🧑‍💻 Desenvolvedor Júnior apaixonado por tecnologia, focado em criar soluções eficientes e aprender constantemente.  
+🎯 Buscando oportunidades na área de **Desenvolvimento de Software**, com experiência prática em **JavaScript**, **HTML**, **CSS**, **Java** e **SQL Server**.  
+🚀 Neste repositório, você encontrará projetos que demonstram minha evolução, organização de código e dedicação em cada linha.
+
 
 ---
 
@@ -28,8 +30,8 @@ Olá! Me chamo **Enzo de Andrade Cruz** e sou **Desenvolvedor Júnior**, apaixon
 
 ## 📫 Entre em contato comigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seuperfil)
-- 📧 enzo.seuemail@email.com *(substituir pelo seu e-mail)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/enzo-andrade-579b40214/)
+- 📧 enzoandradecruz10@gmail.com
 
 ---
 
